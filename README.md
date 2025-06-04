@@ -1,2 +1,2 @@
 # Analysis-of-Bagmati-Bike-Accident-Cases
-This project analyzes bike accident cases in Bagmati Province from 2022 to 2024, focusing on identifying key trends
+This project analyzes bike accident cases in Bagmati Province from 2022 to 2024, focusing on identifying key trends, causes, and high-risk districts. Using data-driven insights, it highlights the impact of factors such as over-speeding and drunk driving, with Kathmandu and Kavrepalanchowk identified as major hotspots. The analysis aims to support policymakers and road safety advocates in developing targeted interventions to reduce accidents and improve overall traffic safety in the region.
