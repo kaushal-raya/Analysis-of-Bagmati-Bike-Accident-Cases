@@ -1,0 +1,55 @@
+﻿ Date ,District,Location,Fatalities,Injuries,Vehicle Type,Cause,Weather,Time,Road Condition
+ 2022-01 ,Kathmandu,Thapathali,2,5,Motorcycle,Over-speeding,Clear,6:30:00 PM,Dry
+ 2022-01 ,Lalitpur,Bungamati,1,3,Motorcycle,Collision,Rainy,8:15:00 PM,Wet
+ 2022-02 ,Bhaktapur,Dhulikhel,0,4,Motorcycle,Poor road condition,Clear,2:00:00 PM,Damaged
+ 2022-02 ,Dhading,Netrawati,1,2,Motorcycle,Over-speeding,Foggy,7:45:00 AM,Slippery
+ 2022-03 ,Kavrepalanchok,Banepa,1,6,Motorcycle,Collision,Clear,7:00:00 PM,Dry
+ 2022-03 ,Makwanpur,Hetauda,0,3,Motorcycle,Reckless driving,Rainy,10:30:00 PM,Wet
+ 2022-04 ,Kathmandu,Patan,3,8,Motorcycle,Over-speeding,Clear,5:20:00 PM,Dry
+ 2022-04 ,Lalitpur,Godawari,1,4,Motorcycle,Collision,Clear,9:10:00 PM,Dry
+ 2022-05 ,Bhaktapur,Madhyapur,2,5,Motorcycle,Alcohol influence,Rainy,11:00:00 PM,Wet
+ 2022-05 ,Dhading,Galchhi,1,3,Motorcycle,Over-speeding,Clear,4:45:00 PM,Dry
+ 2022-06 ,Kavrepalanchok,Chaukot,0,2,Motorcycle,Poor road condition,Clear,9:30:00 AM,Damaged
+ 2022-06 ,Makwanpur,Bakundol,1,4,Motorcycle,Reckless driving,Foggy,8:00:00 PM,Slippery
+ 2022-07 ,Kathmandu,Jorpati,2,7,Motorcycle,Collision,Clear,6:00:00 PM,Dry
+ 2022-07 ,Lalitpur,Satdobato,0,3,Motorcycle,Over-speeding,Clear,10:15:00 PM,Dry
+ 2022-08 ,Bhaktapur,Changunarayan,1,6,Motorcycle,Over-speeding,Rainy,7:45:00 PM,Wet
+ 2022-08 ,Dhading,Galchhi,1,5,Motorcycle,Reckless driving,Clear,9:30:00 PM,Dry
+ 2022-09 ,Kavrepalanchok,Panauti,0,4,Motorcycle,Collision,Clear,3:00:00 PM,Dry
+ 2022-09 ,Makwanpur,Thaha,2,7,Motorcycle,Alcohol influence,Rainy,11:50:00 PM,Wet
+ 2022-10 ,Kathmandu,Baneshwor,3,9,Motorcycle,Over-speeding,Clear,8:10:00 PM,Dry
+ 2022-10 ,Lalitpur,Jawalakhel,1,4,Motorcycle,Collision,Clear,6:25:00 PM,Dry
+ 2022-11 ,Bhaktapur,Dhulikhel,0,3,Motorcycle,Poor road condition,Foggy,7:00:00 AM,Slippery
+ 2022-11 ,Dhading,Netrawati,1,2,Motorcycle,Reckless driving,Clear,7:30:00 PM,Dry
+ 2022-12 ,Kavrepalanchok,Banepa,2,5,Motorcycle,Over-speeding,Clear,9:45:00 PM,Dry
+ 2022-12 ,Makwanpur,Hetauda,1,3,Motorcycle,Collision,Rainy,10:30:00 PM,Wet
+ 2023-01 ,Kathmandu,Thapathali,2,6,Motorcycle,Over-speeding,Clear,6:50:00 PM,Dry
+ 2023-01 ,Lalitpur,Bungamati,1,4,Motorcycle,Reckless driving,Clear,8:20:00 PM,Dry
+ 2023-02 ,Bhaktapur,Madhyapur,0,3,Motorcycle,Collision,Rainy,7:10:00 PM,Wet
+ 2023-02 ,Dhading,Galchhi,1,5,Motorcycle,Alcohol influence,Foggy,10:00:00 PM,Slippery
+ 2023-03 ,Kavrepalanchok,Chaukot,2,7,Motorcycle,Over-speeding,Clear,6:40:00 PM,Dry
+ 2023-03 ,Makwanpur,Bakundol,1,4,Motorcycle,Reckless driving,Clear,9:15:00 PM,Dry
+ 2023-04 ,Kathmandu,Patan,3,8,Motorcycle,Collision,Clear,8:30:00 PM,Dry
+ 2023-04 ,Lalitpur,Godawari,1,5,Motorcycle,Over-speeding,Rainy,7:50:00 PM,Wet
+ 2023-05 ,Bhaktapur,Changunarayan,2,6,Motorcycle,Alcohol influence,Clear,10:10:00 PM,Dry
+ 2023-05 ,Dhading,Netrawati,1,3,Motorcycle,Reckless driving,Clear,4:30:00 PM,Dry
+ 2023-06 ,Kavrepalanchok,Panauti,0,4,Motorcycle,Poor road condition,Foggy,9:00:00 AM,Slippery
+ 2023-06 ,Makwanpur,Thaha,1,5,Motorcycle,Over-speeding,Clear,8:40:00 PM,Dry
+ 2023-07 ,Kathmandu,Jorpati,2,7,Motorcycle,Collision,Clear,6:15:00 PM,Dry
+ 2023-07 ,Lalitpur,Satdobato,0,3,Motorcycle,Reckless driving,Rainy,9:50:00 PM,Wet
+ 2023-08 ,Bhaktapur,Dhulikhel,1,6,Motorcycle,Over-speeding,Clear,7:20:00 PM,Dry
+ 2023-08 ,Dhading,Galchhi,1,5,Motorcycle,Alcohol influence,Clear,8:30:00 PM,Dry
+ 2023-09 ,Kavrepalanchok,Banepa,0,4,Motorcycle,Collision,Rainy,5:00:00 PM,Wet
+ 2023-09 ,Makwanpur,Hetauda,2,7,Motorcycle,Reckless driving,Clear,10:45:00 PM,Dry
+ 2023-10 ,Kathmandu,Baneshwor,3,9,Motorcycle,Over-speeding,Clear,7:30:00 PM,Dry
+ 2023-10 ,Lalitpur,Jawalakhel,1,4,Motorcycle,Collision,Clear,6:00:00 PM,Dry
+ 2023-11 ,Bhaktapur,Madhyapur,0,3,Motorcycle,Poor road condition,Foggy,7:30:00 AM,Slippery
+ 2023-11 ,Dhading,Netrawati,1,2,Motorcycle,Reckless driving,Clear,8:10:00 PM,Dry
+ 2023-12 ,Kavrepalanchok,Panauti,2,5,Motorcycle,Over-speeding,Rainy,9:20:00 PM,Wet
+ 2023-12 ,Makwanpur,Thaha,1,3,Motorcycle,Collision,Clear,10:00:00 PM,Dry
+ 2024-01 ,Kathmandu,Thapathali,2,6,Motorcycle,Over-speeding,Clear,6:45:00 PM,Dry
+ 2024-01 ,Lalitpur,Bungamati,1,4,Motorcycle,Reckless driving,Clear,8:05:00 PM,Dry
+ 2024-02 ,Bhaktapur,Dhulikhel,0,3,Motorcycle,Collision,Rainy,7:15:00 PM,Wet
+ 2024-02 ,Dhading,Galchhi,1,5,Motorcycle,Alcohol influence,Foggy,9:50:00 PM,Slippery
+ 2024-03 ,Kavrepalanchok,Chaukot,2,7,Motorcycle,Over-speeding,Clear,6:55:00 PM,Dry
+ 2024-03 ,Makwanpur,Bakundol,1,4,Motorcycle,Reckless driving,Clear,8:30:00 PM,Dry
